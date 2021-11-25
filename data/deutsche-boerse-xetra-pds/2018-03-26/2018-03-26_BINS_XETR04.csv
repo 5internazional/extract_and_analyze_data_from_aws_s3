@@ -1,0 +1,2 @@
+ISIN,Mnemonic,SecurityDesc,SecurityType,Currency,SecurityID,Date,Time,StartPrice,MaxPrice,MinPrice,EndPrice,TradedVolume,NumberOfTrades
+"LU1692072322","ELLH","MUL-LX.GL.GEN.EQUALI.MHEA","ETF","EUR",3091080,2018-03-26,04:00,10.01,10.01,10.01,10.01,0,1

@@ -20,10 +20,10 @@ Install the latest version of the AWS CLI in the virtual environment. Instructio
 <p>$ pip install -r requirements.txt</p>
 
 
-<p><strong>Changes inside jupyter</strong></p>
+<p><strong>Changes inside jupyter extraction_single_day.ipynb</strong></p>
 <p> !!!Change the very first path parameter on the first line to your local directory </p>
 
-<p><strong>Run cells</strong></p>
+<p><strong>Run cells from extraction_single_day.ipynb</strong></p>
 
 
 
